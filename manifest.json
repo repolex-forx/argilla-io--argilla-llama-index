@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "argilla-io",
+  "repo": "argilla-llama-index",
+  "versions": [
+    {
+      "commit": "7bd3aaaed244809f7a5d5f93181355c03220b05d",
+      "parsed_at": "2026-11-08T02:15:45.398476+00:00",
+      "filetree": "filetree/7bd3aaaed244809f7a5d5f93181355c03220b05d.nq.gz",
+      "blobs": [
+        "blob/8d5d539df63d77175824dadbc542a3e8e59a72cf.nq.gz",
+        "blob/cbce7bb4e84304f5d2b71d4163a257436286662b.nq.gz",
+        "blob/407d9030a1e6d9173bfaa041daffb1d832b1bb7e.nq.gz",
+        "blob/268b8be1886c175e7b563a69967eb26debc03467.nq.gz",
+        "blob/7958de307f005fcd1c1fc5eb8be764c934a865a5.nq.gz",
+        "blob/f49a4e16e68b128803cc2dcea614603632b04eac.nq.gz",
+        "blob/b0131bc35edb4dafa34325f4eab795ab0fdaa178.nq.gz",
+        "blob/496a6602cc5028f1664f50876a4014d2842173ff.nq.gz",
+        "blob/75066fb96a09b3c4470d05437eaf96ae7615f636.nq.gz",
+        "blob/7f0350da39f7b63dffc45dbcf0033ac63baf9e3f.nq.gz",
+        "blob/d7e9c7e4d51fb5dddf86f46670606af94dfde9db.nq.gz",
+        "blob/034ee436eea08a0bb9a51f848ad2a1566ee775ac.nq.gz",
+        "blob/e20164825d5d4b03de26f12fd16e68255b1d99b0.nq.gz",
+        "blob/11aba23ababe0323cdfc818f59a2d9cb76413465.nq.gz",
+        "blob/4f5cb54f61c3b14b17b5a816c623995443059001.nq.gz",
+        "blob/e010e580b5c994b693faa7bef496a529a3d38342.nq.gz",
+        "blob/ac9f4dbcdd8de0de56dcdbce073a366b8f733a25.nq.gz",
+        "blob/3ae8b1695a0480e6498f4422f8ae33a26bf708f0.nq.gz",
+        "blob/e68593ac1bf84f14791d0eb832228e3aaa0ff1eb.nq.gz",
+        "blob/0e23c951018f87962ed59e4af9d5e359630ebd7c.nq.gz",
+        "blob/bf165313b35c5be7a43b4e67d27fa12a54f00165.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
